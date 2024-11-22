@@ -1,7 +1,5 @@
 PhamNgocTho
-<<<<<<< HEAD
 Nguyen My Thong
-=======
 PhamNgocTho_lan2
 PhamNgocTho_lan2
->>>>>>> PhamNgocTho
+PhamNgocTho
